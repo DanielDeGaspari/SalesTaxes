@@ -1,0 +1,13 @@
+# Travis CI Java documentation can be found in:
+# https://docs.travis-ci.com/user/languages/java/
+# enables the 'defaults' to test java applications:
+language: java
+
+# JDKs to be used for testing
+jdk:
+  - oraclejdk8
+
+# This is to enable CodeCov's coverage
+# If a build is successful, the code is submitted for coverage analysis
+after_success:
+  - bash <(curl -s https://codecov.io/bash)

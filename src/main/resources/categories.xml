@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>book</name>
+        <category>books</category>
+    </product>
+    <product>
+        <name>music-cd</name>
+        <category>standard</category>
+    </product>
+    <product>
+        <name>chocolate-bar</name>
+        <category>food</category>
+    </product>
+    <product>
+        <name>box-of-chocolates</name>
+        <category>food</category>
+    </product>
+    <product>
+        <name>bottle-of-perfume</name>
+        <category>standard</category>
+    </product>
+    <product>
+        <name>packet-of-headache-pills</name>
+        <category>medical products</category>
+    </product>
+</products>
