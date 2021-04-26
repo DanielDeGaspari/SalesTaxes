@@ -21,7 +21,7 @@
         <lombok.version>1.18.8</lombok.version>
         <assembly.plugin.version>2.6</assembly.plugin.version>
         <apache.commons.version>3.1</apache.commons.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
     </properties>
 
     <dependencies>
